@@ -1,4 +1,4 @@
-# A gRPC API vulnerable App
+ # A gRPC API vulnerable App
 
 For testing hawkscan GRPC and protobuf capabilities.
 
